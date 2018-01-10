@@ -16,4 +16,4 @@ Evaluate the developer experience of using the candidate framework or library. E
 
 | Candidate           | Details                     |
 | ------------------- | --------------------------- |
-| [Vue.js](/vuejs)    | [view](/vuejs/components)   |
+| [Vue.js](/vuejs)    | [view](/vuejs/dev-experience)   |
