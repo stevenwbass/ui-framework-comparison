@@ -1,6 +1,6 @@
 # Dev Experience
 
-Evaluate the developer experience of using the candidate framework or library. Efficiency, learning curve and ease-of-use should be considered.
+Evaluate the developer experience of using the candidate framework or library. Efficiency, learning curve of the tooling, and ease-of-use should be considered.
 
 ### Considerations:
 
@@ -14,5 +14,6 @@ Evaluate the developer experience of using the candidate framework or library. E
 
 ### Evaluated Candidates
 
-| Candidate | Details |
-| --------- | ------- |
+| Candidate           | Details                     |
+| ------------------- | --------------------------- |
+| [Vue.js](/vuejs)    | [view](/vuejs/components)   |
