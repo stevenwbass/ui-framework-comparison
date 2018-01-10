@@ -29,3 +29,4 @@
 | [License](/criteria/licensing.md)         | [view](/vuejs/licensing)  |
 | [Server Side Rendering](/criteria/ssr.md) | [view](/vuejs/ssr)        |
 | [Testing](/criteria/testing.md)           | [view](/vuejs/testing)    |
+| [Dev Experience](/criteria/dev-experience.md) | [view](/vuejs/dev-experience)|
